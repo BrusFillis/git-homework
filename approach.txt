@@ -5,9 +5,3 @@ In addition to adopting BDD or TDD frameworks, there are other popular tools ava
 When strategizing test automation, it's important to prioritize test cases based on their criticality and frequency of execution. Focusing on high-impact areas and frequently executed scenarios ensures maximum coverage and return on investment. Additionally, implementing a robust test data management strategy, including generating or provisioning test data, can help create comprehensive and reliable test suites.
 
 Another important consideration is the maintainability of automated tests. As the application evolves, tests may need updates to align with changes in functionality. Employing techniques like modularization, where tests are divided into reusable components, can simplify test maintenance and reduce duplication of effort.
-
-Continuous integration and continuous delivery (CI/CD) pipelines can be integrated with automation testing to enable frequent and automated execution of tests. By automating the execution of tests during the CI/CD process, teams can quickly detect regressions and ensure the stability and quality of the software being developed.
-
-Introducing a new testing framework or methodology, such as a continuous testing framework like Jenkins or CircleCI, can enhance test automation practices by enabling automated testing throughout the software development lifecycle and promoting faster feedback loops. 
-
-Adopting a shift-left testing approach, such as BDD or agile testing, can foster early collaboration and improve test coverage, resulting in higher product quality and customer satisfaction.
